@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/66269644/how-to-see-the-console-on-vs-code
